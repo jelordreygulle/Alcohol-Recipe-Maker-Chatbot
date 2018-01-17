@@ -1,0 +1,16 @@
+var salesData = {
+    "west": {
+        units: 200,
+        total: "$6,000",
+        test : "aaaaaa"
+    },
+    "central": {
+        units: 100,
+        total: "$3,000"
+    },
+    "east": {
+        units: 300,
+        total: "$9,000"
+    }
+}
+module.exports = salesData;

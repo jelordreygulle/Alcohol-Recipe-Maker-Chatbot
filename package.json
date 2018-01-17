@@ -1,0 +1,22 @@
+{
+  "name": "alcoholchatbot",
+  "version": "1.0.0",
+  "description": "An alcohol brand chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "4loop",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "log4js": "^2.4.1",
+    "node-spintax": "^1.0.4",
+    "restify": "^6.3.4"
+  }
+}

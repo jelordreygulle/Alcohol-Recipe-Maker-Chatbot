@@ -1,0 +1,16 @@
+npm init
+npm install --save botbuilder
+npm install --save restify
+npm install log4js
+npm i -S node-spintax
+npm i -g npm /  npm i --save lodash
+npm install express --save (server) 
+pwede rasad tong sa restify
+"dependencies": {
+    "botbuilder": "^3.13.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "log4js": "^2.4.1",
+    "node-spintax": "^1.0.4",
+    "restify": "^6.3.4"
+  }
